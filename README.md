@@ -20,3 +20,5 @@ Notes:
 
 [Public Key Cryptosystem](4.md)
 
+[Skip Gram Model](8.md)
+
