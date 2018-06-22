@@ -14,6 +14,8 @@
 
 [walk2friends: Inferring Social Links from Mobility Profiles ](7.md), CCS 2017
 
+[Generating Synthetic Decentralized Social Graphs with Local Differential Privacy](9.md), CCS 2017
+
 ***
 
 Notes:
