@@ -8,7 +8,7 @@
 
 [Message in a Sealed Bottle: Privacy Preserving Friending in Social Networks](5.md)
 
-#### week3,  
+#### week3, Jun 24  
 
 [The Return of Coppersmith’s Attack: Practical Factorization of Widely Used RSA Moduli](6.md), CCS 2017, star
 
