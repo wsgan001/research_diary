@@ -20,7 +20,7 @@
 
 [Forward and Backward Private Searchable Encryption from Constrained Cryptographic Primitives](Jun/10.md), CCS 2017
 
-[Fast Private Set Intersection from Homomorphic Encryption](12.md), CCS 2017
+[Fast Private Set Intersection from Homomorphic Encryption](Jun/12.md), CCS 2017
 
 ***
 
