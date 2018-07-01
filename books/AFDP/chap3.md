@@ -17,3 +17,4 @@ privacy is obtained by process, there are no good or bad response
 - $l_1$-sensitivity, Laplace distribution
 - Laplace mechanism preserves $(\varepsilon,0)$-differential privacy
 
+ 
