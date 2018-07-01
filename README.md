@@ -26,7 +26,7 @@
 
 #### Books
 
-- [The Algorithmic Foundations of Differential Privacy](AFDP/contents.md) reading theorem 3.6 ...
+- [The Algorithmic Foundations of Differential Privacy](books/AFDP/contents.md) reading theorem 3.6 ...
 
 ***
 
