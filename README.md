@@ -16,7 +16,21 @@
 
 [Generating Synthetic Decentralized Social Graphs with Local Differential Privacy](9.md), CCS 2017
 
+#### week4, July 1
+
+[Forward and Backward Private Searchable Encryption from Constrained Cryptographic Primitives](Jun/10.md), CCS 2017
+
+[Fast Private Set Intersection from Homomorphic Encryption](12.md), CCS 2017
+
 ***
+
+#### Books
+
+- [The Algorithmic Foundations of Differential Privacy](AFDP/contents.md)
+
+***
+
+
 
 Notes:
 
