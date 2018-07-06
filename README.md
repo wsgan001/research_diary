@@ -22,6 +22,10 @@
 
 [Fast Private Set Intersection from Homomorphic Encryption](Jun/12.md), CCS 2017
 
+#### week5,
+
+[Leakage-Abuse Attacks against Order-Revealing Encryption](Jul/13.md), SP2017
+
 ***
 
 #### Books
