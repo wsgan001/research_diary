@@ -26,6 +26,8 @@
 
 [Leakage-Abuse Attacks against Order-Revealing Encryption](Jul/13.md), SP2017
 
+[A Framework for Universally Composable Diffie-Hellman Key Exchange](Jul/14.md), SP2017
+
 ***
 
 #### Books
