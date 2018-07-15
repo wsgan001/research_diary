@@ -16,23 +16,33 @@
 
 [Generating Synthetic Decentralized Social Graphs with Local Differential Privacy](9.md), CCS 2017
 
-#### week4, July 1
+#### week4, Jul 1
 
 [Forward and Backward Private Searchable Encryption from Constrained Cryptographic Primitives](Jun/10.md), CCS 2017
 
 [Fast Private Set Intersection from Homomorphic Encryption](Jun/12.md), CCS 2017
 
-#### week5,
+#### week5,Jul 8
 
 [Leakage-Abuse Attacks against Order-Revealing Encryption](Jul/13.md), SP2017
 
 [A Framework for Universally Composable Diffie-Hellman Key Exchange](Jul/14.md), SP2017
 
+#### Week 6, Jul 15
+
+[Comparing the Usability of Cryptographic APIs](Jul/15.md), SP2017
+
+[Membership Inference Attacks Against Machine Learning Models](Jul/16.md), SP2017
+
+[Deep Learning with Differential Privacy](Jul/17.md), CCS2016
+
+[Differential Privacy as a Mutual Information Constraint](Jul/18.md), CCS2016
+
 ***
 
 #### Books
 
-- [The Algorithmic Foundations of Differential Privacy](books/AFDP/contents.md) reading theorem 3.6 ...
+- [The Algorithmic Foundations of Differential Privacy](books/AFDP/contents.md) 
 
 ***
 
