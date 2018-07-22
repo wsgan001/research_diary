@@ -38,6 +38,20 @@
 
 [Differential Privacy as a Mutual Information Constraint](Jul/18.md), CCS2016
 
+#### Week7, Jul 22
+
+[VibWrite: Towards Finger-input Authentication on Ubiquitous Surfaces via Physical Vibration](Jul/20.md), CCS17
+
+[DolphinAttack: Inaudible Voice Commands](Jul/21.md), CCS17
+
+[Locally Differentially Private Protocols for Frequency Estimation](Jul/23.md), USENIX17
+
+[Poster: Locally Differentially Private Frequent Itemset Mining](Jul/24.md), SP17
+
+[Heavy Hitter Estimation over Set-Valued Data with Local Differential Privacy](Jul/25.md)
+
+
+
 ***
 
 #### Books
