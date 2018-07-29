@@ -48,9 +48,17 @@
 
 [Poster: Locally Differentially Private Frequent Itemset Mining](Jul/24.md), SP17
 
-[Heavy Hitter Estimation over Set-Valued Data with Local Differential Privacy](Jul/25.md)
+[Heavy Hitter Estimation over Set-Valued Data with Local Differential Privacy](Jul/25.md)， CCS16
 
+#### Week8, Jul 29
 
+[Practical Secure Aggregation for Privacy-Preserving Machine Learning](Jul/26.md), CCS17
+
+[Is Interaction Necessary for Distributed Private Learning?](Jul/27.md), SP17
+
+[Fast Homomorphic Evaluation of Deep Discretized Neural Networks](Jul/28.md), CRYPTO18
+
+[SecureML: A System for Scalable Privacy-Preserving Machine Learning](Jul/29.md), SP17
 
 ***
 
