@@ -1,6 +1,6 @@
 ### Contents
 
-#### week 2, Jun 17
+#### Week 2, Jun 17
 
 [Collusion-Tolerable Privacy-Preserving Sum and Product Calculation without Secure Channel](2.md)
 
@@ -8,7 +8,7 @@
 
 [Message in a Sealed Bottle: Privacy Preserving Friending in Social Networks](5.md)
 
-#### week3, Jun 24  
+#### Week3, Jun 24  
 
 [The Return of Coppersmith’s Attack: Practical Factorization of Widely Used RSA Moduli](6.md), CCS 2017, star
 
@@ -16,13 +16,13 @@
 
 [Generating Synthetic Decentralized Social Graphs with Local Differential Privacy](9.md), CCS 2017
 
-#### week4, Jul 1
+#### Week4, Jul 1
 
 [Forward and Backward Private Searchable Encryption from Constrained Cryptographic Primitives](Jun/10.md), CCS 2017
 
 [Fast Private Set Intersection from Homomorphic Encryption](Jun/12.md), CCS 2017
 
-#### week5,Jul 8
+#### Week5,Jul 8
 
 [Leakage-Abuse Attacks against Order-Revealing Encryption](Jul/13.md), SP2017
 
@@ -59,6 +59,16 @@
 [Fast Homomorphic Evaluation of Deep Discretized Neural Networks](Jul/28.md), CRYPTO18
 
 [SecureML: A System for Scalable Privacy-Preserving Machine Learning](Jul/29.md), SP17
+
+#### Week9, Aug 5
+
+[Practical Multi-party Private Set Intersection from Symmetric-Key Techniques*](Aug/30.md), CCS17
+
+[Forward Secure Dynamic Searchable Symmetric Encryption with Efficient Updates](Aug/32.md), CCS17
+
+[Back to the Drawing Board: Revisiting the Design of Optimal Location Privacy-preserving Mechanisms](Aug/33.md), CCS17
+
+[Practical Functional Encryption for Quadratic Functions with Applications to Predicate Encryption](Aug/34.md), CRYPTO17
 
 ***
 
