@@ -70,6 +70,16 @@
 
 [Practical Functional Encryption for Quadratic Functions with Applications to Predicate Encryption](Aug/34.md), CRYPTO17
 
+#### Week10, Aug 12
+
+[Distance-Bounding Protocols: Verification without Time and Location*](Aug/35.md)
+
+[Hearing Your Voice is Not Enough: An Articulatory Gesture Based Liveness Detection for Voice Authentication](Aug/36.md)
+
+[Multi-touch Authentication Using Hand Geometry and Behavioral Information](Aug/37.md)
+
+[EyeTell: Video-Assisted Touchscreen Keystroke Inference from Eye Movements](Aug/38.md)
+
 ***
 
 #### Books
