@@ -80,6 +80,16 @@
 
 [EyeTell: Video-Assisted Touchscreen Keystroke Inference from Eye Movements](Aug/38.md)
 
+#### Week11, Aug 19
+
+[ACES: Automatic Compartments for Embedded Systems](Aug/40.md)
+
+[CommanderSong: A Systematic Approach for Practical Adversarial Voice Recognition](Aug/41.md)
+
+[All Your GPS Are Belong To Us: Towards Stealthy Manipulation of Road Navigation Systems](Aug/42.md)
+
+[SmartAuth: User-Centered Authorization for the Internet of Things](Aug/43.md)
+
 ***
 
 #### Books
